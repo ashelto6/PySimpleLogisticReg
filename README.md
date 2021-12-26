@@ -1,2 +1,2 @@
 # PySimpleLogisticReg
-Program that implements simple logistic regression in Python
+Program that implements simple binary classification in Python
